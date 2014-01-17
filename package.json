@@ -21,7 +21,7 @@
     "topcoat-checkbox-base": "~0.1.3",
     "topcoat-button": "~0.5.4",
     "topcoat-icon-button": "~0.4.0",
-    "topcoat-button-bar-base": "~0.1.3",
+    "topcoat-button-bar-base": "0.1.3",
     "topcoat-button-bar": "~0.2.0",
     "topcoat-textarea": "~0.3.0",
     "topcoat-text-input": "~0.3.4",
@@ -32,7 +32,7 @@
     "topcoat-switch": "~0.1.4",
     "topcoat-switch-base": "~0.1.0",
     "topcoat-range-base": "0.0.3",
-    "topcoat-theme": "git://github.com/marqu3z/topcoat-theme#zucano-theme",
+    "topcoat-theme": "git://github.com/marqu3z/theme#zucano-theme",
     "topcoat-utils": "~0.2.0",
     "topcoat-search-input": "~0.3.3",
     "topcoat-range": "~0.2.0"
